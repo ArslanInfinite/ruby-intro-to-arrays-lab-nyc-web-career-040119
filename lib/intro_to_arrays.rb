@@ -1,1 +1,3 @@
-array_with_two_elements = ["one", "two"]
+def my_new_array
+  array = []
+end
