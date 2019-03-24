@@ -20,7 +20,7 @@ def last_element(my_last_element)
     taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
     my_last_element = taylor_swift[3]
 end
-  
+
 def first_element_with_array_methods(first_country)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   first_country = south_east_asia[0]
