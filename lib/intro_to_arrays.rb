@@ -28,5 +28,5 @@ end
 
 def last_element_with_array_methods(last_country)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-  last_country = south_east_asia[4]
+  last_country = south_east_asia[3]
 end
