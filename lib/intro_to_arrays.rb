@@ -1,1 +1,1 @@
-array_with_two_elements = [one, two]
+array_with_two_elements = ["one", "two"]
